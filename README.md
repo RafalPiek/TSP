@@ -61,7 +61,7 @@ In the future, as my skills progress, I would like to add a graphical user inter
 
 
 ## Acknowledgements
-- This project was inspired by https://www.youtube.com/@Jaknauczycsieprogramowania/
+- This project was inspired by [@Jaknauczycsieprogramowania](https://www.youtube.com/@Jaknauczycsieprogramowania/).
 - This project was based on [this tutorial](https://youtu.be/EFaPsPwPJAY?t=5353).
 
 
