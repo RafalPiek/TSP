@@ -12,13 +12,11 @@
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
-<!-- * [License](#license) -->
 
 
 ## General Information
 - The application was used for learning SQLite and basic Python
 - The goal was to create a console interface and a second file that contained functions used in main file.
-
 
 
 
@@ -42,6 +40,8 @@ It is likely that the application will run on any system that has Windows and at
 Installation: download the TSP folder.
 Open the folder and run the main.exe file.
 
+
+
 ## Usage
 The first step is to select the appropriate option from the list and confirm it by pressing Enter (each operation needs to be confirmed this way).
 If you have selected registration, the first step is to enter your username, followed by a password that must have a minimum of 8 characters.
@@ -51,6 +51,8 @@ Once you have logged in, you can create your first task, set its content and cat
 Now you can display, delete, or modify it.
 
 The last option in both menus is to exit/logout.
+
+
 
 ## Project Status
 Project is: _in progress_ .
