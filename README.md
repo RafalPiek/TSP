@@ -9,13 +9,12 @@
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 
 ## General Information
-- The application was used for learning SQLite and basic Python
+- The application was used for learning SQLite, basic Python and write good README 
 - The goal was to create a console interface and a second file that contained functions used in main file.
 
 
@@ -56,7 +55,7 @@ The last option in both menus is to exit/logout.
 
 ## Project Status
 Project is: _in progress_ .
-In the future, as my skills progress, I would like to add a graphical user interface to the project.
+In the future, as my skills progress, I would like to add a graphical user interface to the project and the option to choose the language (currently only Polish). 
 
 
 
