@@ -66,4 +66,4 @@ In the future, as my skills progress, I would like to add a graphical user inter
 
 
 ## Contact
-Created by [@RafalP](https://github.com/Sims74) - feel free to contact me!
+Created by [@RafalP](https://github.com/RafalPiek/) - feel free to contact me!
